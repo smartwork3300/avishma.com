@@ -1,0 +1,73 @@
+.carousel-item img{
+height: 500px;
+}
+
+h1{
+    text-align: center;
+}
+.projects{
+    margin-top:90px;
+    margin-bottom: 60px;
+    margin-left: 60px;
+}
+p{
+    font-weight: 700px;
+}
+.icons{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 3px 14.88px 1.12px rgb(59 57 62 / 32%);
+    margin-bottom: 18px;
+    margin-top:40px;
+    border-radius: 20%;
+}
+.icons img{
+    text-align: center;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    iframe{
+        width:auto;
+        height: auto;
+        text-align: center;
+    }
+  }
+  
+  /* Small devices (portrait tablets and large phones, 600px and up) */
+  @media only screen and (min-width: 600px) {
+    iframe{
+        width:auto;
+        height: auto;
+    }
+  }
+  
+  /* Medium devices (landscape tablets, 768px and up) */
+  @media only screen and (min-width: 768px) {
+    iframe{
+        width:auto;
+        height: auto;
+    }
+  } 
+  
+  /* Large devices (laptops/desktops, 992px and up) */
+  @media only screen and (min-width: 992px) {
+    iframe{
+        width:1280px;
+        height: 604px;
+
+    }
+  } 
+  
+  /* Extra large devices (large laptops and desktops, 1200px and up) */
+  @media only screen and (min-width: 1200px) {
+    iframe{
+        width:1280px;
+        height: 604px;
+
+    }
+  }

@@ -1,0 +1,58 @@
+.bhongir{
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+
+h1,h2{
+    color: #db105f;
+    text-transform: uppercase;
+    font-style: italic
+}
+h2{
+    text-align: center;
+}
+.downloads{
+    margin-top:90px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 15px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    min-width: 300px;
+    border-radius: 20px;
+    
+  }
+  
+  .button1 {
+    background-color: white; 
+    color: #000; 
+    font-weight: 600;
+    border: 2px solid #4CAF50;
+  }
+  
+  .button1:hover {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .arrow{
+      position: relative;
+      right:5px;
+      color: #000;
+      font-size: 20px;
+  }
+  a{
+      text-decoration: none;
+      
+  }
+  
